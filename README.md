@@ -5,7 +5,7 @@
 
 - 🌱 Saya sedang mempelajari **Java, Android Studio, Oracle, MySQL**
 
-- 💬 Tanya saya tentang **Html, CSS, C**
+- 💬 Tanya saya tentang **Html, CSS, C**, React, React Native
 
 - ⚡ Fakta yang menyenangkan dari saya **Saya rasa saya humoris**
 
