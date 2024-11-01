@@ -23,10 +23,14 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,c,css,git,html,java,javascript,kotlin,mysql,oracle,photoshop,php,python,sass" />
     <img src="https://skillicons.dev/icons?i=react,reactnative" /><br>
 </div>
+<br/>
+<hr/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandroanugrah&show_icons=true&locale=en&layout=compact" alt="sandroanugrah" /></p>
 
