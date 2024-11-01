@@ -13,8 +13,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sndroangrh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sndroangrh" height="30" width="40" /></a>
+  <a href="https://instagram.com/sndroangrh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sndroangrh" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/sandro-anugrah-tambunan-69b8a824b/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://web.facebook.com/sandro.tambunan.73" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
 </p>
+
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,c,css,git,html,java,javascript,kotlin,mysql,oracle,photoshop,php,python,sass" />
