@@ -7,7 +7,7 @@
 
 - 🌱 Saya sedang mempelajari **Java, Android Studio, Oracle, MySQL**
 
-- 💬 Tanya saya tentang **Html, CSS, C**, React, React Native
+- 💬 Tanya saya tentang **PHP, MySQL, HTML5, CSS3, JavaScript, TypeScript, GIT, Sass, Bootstrap, Tailwind CSS, Java, React, Node.js, Next.js, Firebase & React Native**
 
 - ⚡ Fakta yang menyenangkan dari saya **Saya rasa saya humoris**
 
