@@ -11,16 +11,16 @@
 
 - ⚡ Fakta yang menyenangkan dari saya **Saya rasa saya humoris**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Terhubung dengan saya:</h3>
 <p align="left">
   <a href="https://instagram.com/sndroangrh" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sndroangrh" height="30" width="40" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="sndroangrh" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/sandro-anugrah-tambunan-69b8a824b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="40" />
   </a>
   <a href="https://web.facebook.com/sandro.tambunan.73" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="Facebook" height="40" />
   </a>
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
