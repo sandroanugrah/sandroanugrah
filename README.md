@@ -19,9 +19,6 @@
   <a href="https://www.linkedin.com/in/sandro-anugrah-tambunan-69b8a824b/" target="blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="40" />
   </a>
-   <a href="https://web.facebook.com/sandro.tambunan.73" target="blank">
-    <img src="https://user-images.githubusercontent.com/74038190/236153748-fb07a51d-763b-4f17-b94d-27403a1b2c24.png" alt="Facebook" height="40" />
-  </a>
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
