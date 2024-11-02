@@ -29,7 +29,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,c,css,git,html,java,javascript,kotlin,mysql,oracle,photoshop,php,python,sass,react,reactnative,typescript" alt="Skill Icons" />
-    <img src="https://skillicons.dev/icons?i=react,reactnative" /><br>
 </div>
 <br/>
 <hr/>
