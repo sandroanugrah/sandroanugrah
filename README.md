@@ -28,7 +28,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,c,css,git,html,java,javascript,kotlin,mysql,oracle,photoshop,php,python,sass,react,reactnative,typescript" alt="Skill Icons" style="margin: 10px;" />
+   <div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,c,css,git,html,java,javascript,kotlin,mysql,photoshop,php,python,sass,react,reactnative,typescript" alt="Skill Icons" style="margin: 10px;" />
+    <i class="fab fa-oracle" style="font-size: 40px; margin: 10px;"></i>
+</div>
 </div>
 <br/>
 <hr/>
