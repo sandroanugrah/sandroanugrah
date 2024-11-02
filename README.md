@@ -30,7 +30,7 @@
 <div align="center">
    <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,c,css,git,html,java,javascript,kotlin,mysql,photoshop,php,python,sass,react,reactnative,typescript" alt="Skill Icons" style="margin: 10px;" />
-    <i class="fab fa-oracle" style="font-size: 40px; margin: 10px;"></i>
+    <img src="https://simpleicons.org/icons/oracle.svg" alt="Oracle Icon" style="margin: 10px; width: 40px; height: 40px;" />
 </div>
 </div>
 <br/>
