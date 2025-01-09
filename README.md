@@ -11,7 +11,7 @@
 
 - ⚡ Fakta yang menyenangkan dari saya **Saya rasa saya humoris**
 
-  <p align="center">
+<p align="center">
   <a href="https://wa.me/+6285363972317" target="_blank"><img src="https://img.shields.io/badge/Hubungi-WhatsApp-green?style=for-the-badge&logo=whatsapp" alt="Hubungi Saya" /></a>
   <a href="https://sandroanugrah.github.io/PORTOFOLIO-SANDRO-V1/" target="_blank"><img src="https://img.shields.io/badge/Portofolio%20Saya-Situs-orange?style=for-the-badge&logo=github" alt="Portofolio" /></a>
 </p>
@@ -25,6 +25,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" height="40" />
   </a>
 </p>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -59,7 +60,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sandroanugrah/sandroanugrah/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
